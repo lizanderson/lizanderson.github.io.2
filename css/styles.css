@@ -1,0 +1,57 @@
+/* Your Website Styles */
+
+body {
+	background: url("../img/hexellence.png");
+}
+
+h1 {
+	text-align: center;
+	font-size: 75px;
+	color: #226799;
+
+}
+
+img {
+	width: 900px;
+	height: 750px;
+	padding: 75px;
+	vertical-align: center;
+}
+
+a {
+	padding: 60px 80px 60px 80px;
+	margin: 40px 25px 40px 25px;
+	color: #229999;
+	text-decoration: none;
+}
+
+.links {
+	background: url("../img/escheresque_ste.png");
+	font-size: 30px;
+	width: 1000px;
+	padding: 30px 30px;
+	margin: 0;
+	color: #229999;
+}
+
+.btn {
+	padding: 15px 30px;
+	margin: 40px 0;
+	border-radius: 25px;
+	-webkit-border-radius: 25px;
+	-moz-border-radius: 25px;
+	text-transform: uppercase;
+}
+
+
+
+
+
+
+
+
+
+/* Show Grid */
+.showgrid {
+	background: url("../img/grid-bg.png") repeat-y;
+}
